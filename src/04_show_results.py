@@ -1375,7 +1375,7 @@ if __name__ == "__main__":
             ax[0].grid()
 
             ax[1].set_xlabel("$\\bar{r}_{b}$")
-            ax[1].set_ylabel(f"$p$-value for {measure_info['symbol']}")
+            ax[1].set_ylabel(f"$p$-value for ratio {measure_info['symbol']}")
             ax[1].set_ylim([-0.05, 1.05])
             ax[1].grid()
 

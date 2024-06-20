@@ -2,7 +2,7 @@ fastdtw==0.3.4
 matplotlib==3.9.0
 numpy==1.26.4
 pandas==2.2.2
--e git+https://github.com/hbulab/atc-diamor.git@133c7d60b7024293282c6da704ba802c3afab194#egg=pedestrians_social_binding&subdirectory=code/package
+-e git+https://github.com/hbulab/atc-diamor.git#egg=pedestrians_social_binding&subdirectory=code/package
 SciencePlots==2.1.1
 scipy==1.13.1
 tqdm==4.66.4

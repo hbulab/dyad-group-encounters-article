@@ -169,7 +169,7 @@ MEASURES = [
     # },
     {
         "name": "turn_intensity",
-        "symbol": "$i$",
+        "symbol": "$I$",
         "latex_name": "turn intensity",
         "limits": [0, 0.05],
         "units": "(in~deg$\\times$cm)",
